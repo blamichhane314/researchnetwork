@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Matrix Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Multilinear Algebra">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Lie Groups/Algebras">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Operator Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Matrix Computations">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Numerical Range">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Matrix Inequalities">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Low-Dimensional Topology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Knot Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Algebraic Topology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Symplectic Geometry">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Gauge Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Traceless SU(2) Character Varieties">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Lagrangian Submanifolds">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Fukaya Category">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Singular Instanton Knot Floer Homology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Khovanov Homology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Casson-Lin Invariants">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Probability Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Stochastic Processes">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Mathematical Statistics">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Stochastic Modeling">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Extreme Events">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Heavy-Tailed Distributions">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Limit Theory for Random Sums">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Fractal Scaling Processes">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Fractional Calculus">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Differential Equations">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Navier-Stokes Equations">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Turbulence">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Functional Analysis">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Numerical Methods">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Approximate Techniques">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Dynamical Systems">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Stability">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Bifurcation Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Control">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Mathematical Biology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Carcinogenesis Models">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Stochastic Network Models">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Infectious Diseases">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Neuroscience">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Sleep-Wake Regulatory Networks in the Brain">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Evolutionary Genetics">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Population Ecology">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Analytic Number Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Diophantine Problems">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Metric Diophantine Approximation on Manifolds">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Rational Points">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Algebraic Number Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Algebraic Geometry">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Harmonic Analysis">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Quantum Information Science">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Computational Methods">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Adaptive Discretizations">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Multi-Scale Problems">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Numerical Simulation">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Game Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Graph Theory">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Financial Mathematics">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Actuarial Mathematics">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Mathematical Economics">
+      <data key="d0">Topic</data>
+    </node>
+    <node id="Tin-Yau Tam">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Aleksey Telyakovskiy">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Jonathan Beardsley">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Valentin Deaconu">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Mehmet Gumus">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Christopher Herald">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Jing-Jing Huang">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Paul Hurtado">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Stanislav Jabuka">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Tynan Kelly">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Tomasz J. Kozubowski">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Pan-Shun Lau">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Jeff Mortensen">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Diana Moss">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Eric Olson">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Anna Panorska">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Mark Pinsky">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Thomas Quint">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Chris Rogers">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Andrey Sarantsev">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Deena Schmidt">
+      <data key="d0">Researcher</data>
+    </node>
+    <node id="Pavel Solin">
+      <data key="d0">Researcher</data>
+    </node>
+    <edge source="Matrix Theory" target="Multilinear Algebra">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Matrix Theory" target="Lie Groups/Algebras">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Matrix Theory" target="Operator Theory">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Matrix Theory" target="Matrix Computations">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Matrix Theory" target="Tin-Yau Tam">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Multilinear Algebra" target="Operator Theory">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Multilinear Algebra" target="Tin-Yau Tam">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Lie Groups/Algebras" target="Operator Theory">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Lie Groups/Algebras" target="Tin-Yau Tam">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Operator Theory" target="Matrix Inequalities">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Operator Theory" target="Quantum Information Science">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Operator Theory" target="Numerical Range">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Operator Theory" target="Tin-Yau Tam">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Operator Theory" target="Pan-Shun Lau">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Matrix Computations" target="Numerical Range">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Matrix Computations" target="Matrix Inequalities">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Matrix Computations" target="Quantum Information Science">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Matrix Computations" target="Mehmet Gumus">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Numerical Range" target="Tin-Yau Tam">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Numerical Range" target="Pan-Shun Lau">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Matrix Inequalities" target="Pan-Shun Lau">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Low-Dimensional Topology" target="Algebraic Topology">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Low-Dimensional Topology" target="Knot Theory">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Low-Dimensional Topology" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Low-Dimensional Topology" target="Stanislav Jabuka">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Low-Dimensional Topology" target="Tynan Kelly">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Knot Theory" target="Algebraic Topology">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Knot Theory" target="Singular Instanton Knot Floer Homology">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Knot Theory" target="Khovanov Homology">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Knot Theory" target="Casson-Lin Invariants">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Knot Theory" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Knot Theory" target="Stanislav Jabuka">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Knot Theory" target="Tynan Kelly">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Algebraic Topology" target="Symplectic Geometry">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Algebraic Topology" target="Jonathan Beardsley">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Symplectic Geometry" target="Gauge Theory">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Symplectic Geometry" target="Lagrangian Submanifolds">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Symplectic Geometry" target="Fukaya Category">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Symplectic Geometry" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Gauge Theory" target="Traceless SU(2) Character Varieties">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Gauge Theory" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Lagrangian Submanifolds" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Fukaya Category" target="Christopher Herald">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Probability Theory" target="Stochastic Processes">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Probability Theory" target="Andrey Sarantsev">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Stochastic Processes" target="Stochastic Modeling">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Processes" target="Mathematical Biology">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Processes" target="Population Ecology">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Processes" target="Paul Hurtado">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Mathematical Statistics" target="Tomasz J. Kozubowski">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Mathematical Statistics" target="Andrey Sarantsev">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Stochastic Modeling" target="Heavy-Tailed Distributions">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Stochastic Modeling" target="Extreme Events">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Modeling" target="Tomasz J. Kozubowski">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Extreme Events" target="Tomasz J. Kozubowski">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Extreme Events" target="Anna Panorska">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Heavy-Tailed Distributions" target="Fractal Scaling Processes">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Heavy-Tailed Distributions" target="Tomasz J. Kozubowski">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Fractal Scaling Processes" target="Tomasz J. Kozubowski">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Fractional Calculus" target="Differential Equations">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Fractional Calculus" target="Numerical Methods">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Fractional Calculus" target="Aleksey Telyakovskiy">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Fractional Calculus" target="Jeff Mortensen">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Differential Equations" target="Navier-Stokes Equations">
+      <data key="d1">Is_Subfield_Of</data>
+    </edge>
+    <edge source="Differential Equations" target="Jeff Mortensen">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Navier-Stokes Equations" target="Turbulence">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Navier-Stokes Equations" target="Functional Analysis">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Navier-Stokes Equations" target="Dynamical Systems">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Navier-Stokes Equations" target="Eric Olson">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Turbulence" target="Eric Olson">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Functional Analysis" target="Eric Olson">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Numerical Methods" target="Approximate Techniques">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Numerical Methods" target="Aleksey Telyakovskiy">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Dynamical Systems" target="Population Ecology">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Dynamical Systems" target="Stability">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Dynamical Systems" target="Paul Hurtado">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Dynamical Systems" target="Eric Olson">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Stability" target="Control">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stability" target="Mark Pinsky">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Bifurcation Theory" target="Control">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Bifurcation Theory" target="Mark Pinsky">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Control" target="Mark Pinsky">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Mathematical Biology" target="Population Ecology">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Mathematical Biology" target="Carcinogenesis Models">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Mathematical Biology" target="Stochastic Network Models">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Mathematical Biology" target="Deena Schmidt">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Stochastic Network Models" target="Infectious Diseases">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Network Models" target="Neuroscience">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Network Models" target="Evolutionary Genetics">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Stochastic Network Models" target="Deena Schmidt">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Infectious Diseases" target="Paul Hurtado">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Neuroscience" target="Sleep-Wake Regulatory Networks in the Brain">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Neuroscience" target="Deena Schmidt">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Evolutionary Genetics" target="Deena Schmidt">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Population Ecology" target="Paul Hurtado">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Analytic Number Theory" target="Diophantine Problems">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Analytic Number Theory" target="Harmonic Analysis">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Analytic Number Theory" target="Jing-Jing Huang">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Diophantine Problems" target="Metric Diophantine Approximation on Manifolds">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Diophantine Problems" target="Jing-Jing Huang">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Metric Diophantine Approximation on Manifolds" target="Jing-Jing Huang">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Rational Points" target="Algebraic Geometry">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Rational Points" target="Algebraic Number Theory">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Rational Points" target="Jing-Jing Huang">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Algebraic Number Theory" target="Algebraic Geometry">
+      <data key="d1">Is_Closely_Related_To</data>
+    </edge>
+    <edge source="Algebraic Number Theory" target="Stanislav Jabuka">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Algebraic Geometry" target="Chris Rogers">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Harmonic Analysis" target="Jing-Jing Huang">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Quantum Information Science" target="Pan-Shun Lau">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Computational Methods" target="Numerical Simulation">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Computational Methods" target="Adaptive Discretizations">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Computational Methods" target="Pavel Solin">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Adaptive Discretizations" target="Pavel Solin">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Multi-Scale Problems" target="Numerical Simulation">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Multi-Scale Problems" target="Pavel Solin">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Game Theory" target="Mathematical Economics">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Game Theory" target="Graph Theory">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Game Theory" target="Financial Mathematics">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Game Theory" target="Thomas Quint">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Graph Theory" target="Thomas Quint">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Financial Mathematics" target="Actuarial Mathematics">
+      <data key="d1">Is_Applicable_To</data>
+    </edge>
+    <edge source="Financial Mathematics" target="Andrey Sarantsev">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Actuarial Mathematics" target="Andrey Sarantsev">
+      <data key="d1">Works_On</data>
+    </edge>
+    <edge source="Mathematical Economics" target="Thomas Quint">
+      <data key="d1">Works_On</data>
+    </edge>
+  </graph>
+</graphml>
