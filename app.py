@@ -15,7 +15,7 @@ page_bg = """
 st.markdown(page_bg, unsafe_allow_html=True)
 
 # Load the pre-saved graph from the .graphml file
-graph_path = 'NetworkXUNR/Data/ResearchNetwork.graphml'
+graph_path = 'ResearchNetwork.graphml'
 G = nx.read_graphml(graph_path)
 
 # List of topics for user selection
